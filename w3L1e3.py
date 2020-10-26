@@ -22,4 +22,4 @@ image_pixels = [
     b, b, B, B, B, B, S, S, 
     ]
 
-sense.set_pixels(image_pixels)
+sense.set_pixels(image_pixels)  
